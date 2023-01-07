@@ -1,0 +1,5 @@
+files/main.py plagiat1/main.py
+files/lossy.py plagiat2/lossy.py
+files/lossy.py files/lossy.py
+files/auto.py plagiat1/auto.py
+files/auto.py plagiat2/auto.py
